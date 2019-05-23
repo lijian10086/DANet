@@ -91,3 +91,8 @@ If DANet is useful for your research, please consider citing:
 ```
 ## Acknowledgement
 Thanks [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding), especially the Synchronized BN!
+
+#李剑备注：
+https://blog.csdn.net/mieleizhi0522/article/details/83111183 Dual Attention Network for Scene Segmentation讲解
+https://www.jianshu.com/p/06742d8bd8ff Dual Attention Network for Scene Segmentation论文笔记
+https://zhangbin0917.github.io/2018/09/13/Dual-Attention-Network-for-Scene-Segmentation/  论文笔记
